@@ -234,6 +234,6 @@ Full license text is available on Hugging Face (`LICENSE_Arbitr_Commercial.txt`)
 ## 7. Related links
 
 * Hugging Face sample: [https://huggingface.co/datasets/arbitrdatasets/arbitr-uspto-ev-sample](https://huggingface.co/datasets/arbitrdatasets/arbitr-uspto-ev-sample)  
-* Website: arbitrinc.com/datasets
+* Website: <https://arbitrinc.com/datasets>
 * Contact: <Arbitrdataset@gmail.com>
 
